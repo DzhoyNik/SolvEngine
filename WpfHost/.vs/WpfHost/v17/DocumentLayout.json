@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\methods\\sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|solutionrelative:methods\\sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\handlerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|solutionrelative:handlerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\methods\\goldensection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|solutionrelative:methods\\goldensection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\methods\\dichotomy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|solutionrelative:methods\\dichotomy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\solvengine\\wpfhost\\models\\extremumtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|solutionrelative:models\\extremumtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\methods\\newton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|solutionrelative:methods\\newton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\models\\sortarraypayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|solutionrelative:models\\sortarraypayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\webmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BC318-3460-4AEC-AF95-089AD3A13AE6}|WpfHost.csproj|solutionrelative:webmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Newton.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Methods\\Newton.cs",
+              "RelativeDocumentMoniker": "Methods\\Newton.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Methods\\Newton.cs",
+              "RelativeToolTip": "Methods\\Newton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:44:24.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoldenSection.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Methods\\GoldenSection.cs",
+              "RelativeDocumentMoniker": "Methods\\GoldenSection.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Methods\\GoldenSection.cs",
+              "RelativeToolTip": "Methods\\GoldenSection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:44:15.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dichotomy.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Methods\\Dichotomy.cs",
+              "RelativeDocumentMoniker": "Methods\\Dichotomy.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Methods\\Dichotomy.cs",
+              "RelativeToolTip": "Methods\\Dichotomy.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:41:07.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebMessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\WebMessageHandler.cs",
+              "RelativeDocumentMoniker": "WebMessageHandler.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\WebMessageHandler.cs",
+              "RelativeToolTip": "WebMessageHandler.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:36:56.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SortArrayPayload.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Models\\SortArrayPayload.cs",
+              "RelativeDocumentMoniker": "Models\\SortArrayPayload.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Models\\SortArrayPayload.cs",
+              "RelativeToolTip": "Models\\SortArrayPayload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:44:03.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sorting.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Methods\\Sorting.cs",
+              "RelativeDocumentMoniker": "Methods\\Sorting.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Methods\\Sorting.cs",
+              "RelativeToolTip": "Methods\\Sorting.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAcwIQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:33:11.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtremumType.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Models\\ExtremumType.cs",
+              "RelativeDocumentMoniker": "Models\\ExtremumType.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\Models\\ExtremumType.cs",
+              "RelativeToolTip": "Models\\ExtremumType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T00:01:24.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandlerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\HandlerFactory.cs",
+              "RelativeDocumentMoniker": "HandlerFactory.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\SolvEngine\\WpfHost\\HandlerFactory.cs",
+              "RelativeToolTip": "HandlerFactory.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAmwAABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:36:44.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
