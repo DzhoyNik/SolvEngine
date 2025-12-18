@@ -1,7 +1,0 @@
-export const MENU_ROUTE = "/"
-export const DICHOTOMY_ROUTE = "/dichotomy"
-export const SLAU_ROUTE = "/slau"
-export const GOLDSECTION_ROUTE = "/goldsection"
-export const NEWTON_ROUTE = "/newton"
-export const SORT_ROUTE = "/sort"
-export const INTERVAL_ROUTE = "/interval"
